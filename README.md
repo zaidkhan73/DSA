@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/zaidkhan73/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/zaidkhan73/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/zaidkhan73/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zaidkhan73/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/zaidkhan73/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/zaidkhan73/DSA/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/zaidkhan73/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
