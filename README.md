@@ -90,8 +90,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zaidkhan73/DSA/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/zaidkhan73/DSA/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zaidkhan73/DSA/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/zaidkhan73/DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/zaidkhan73/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
