@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/zaidkhan73/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/zaidkhan73/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/zaidkhan73/DSA/tree/master/0875-koko-eating-bananas) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaidkhan73/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/zaidkhan73/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/zaidkhan73/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/zaidkhan73/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/zaidkhan73/DSA/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
