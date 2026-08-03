@@ -2,6 +2,7 @@
 
 <p>Implement the <code>MinStack</code> class:</p>
 
+
 <ul>
 	<li><code>MinStack()</code> initializes the stack object.</li>
 	<li><code>void push(int value)</code> pushes the element <code>value</code> onto the stack.</li>
