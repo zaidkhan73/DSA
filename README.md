@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/zaidkhan73/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/zaidkhan73/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/zaidkhan73/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkhan73/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/zaidkhan73/DSA/tree/master/0981-time-based-key-value-store) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/zaidkhan73/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
