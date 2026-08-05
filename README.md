@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/zaidkhan73/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/zaidkhan73/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
 ## Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/zaidkhan73/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/zaidkhan73/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/zaidkhan73/DSA/tree/master/0875-koko-eating-bananas) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaidkhan73/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/zaidkhan73/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
 | [3536-maximum-product-of-two-digits](https://github.com/zaidkhan73/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/zaidkhan73/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
 ## Bracket Sequences
 |  |
 | ------- |
