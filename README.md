@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/zaidkhan73/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/zaidkhan73/DSA/tree/master/1046-last-stone-weight) |
 ## Merge Sort
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zaidkhan73/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/zaidkhan73/DSA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/zaidkhan73/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0622-design-circular-queue](https://github.com/zaidkhan73/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/zaidkhan73/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/zaidkhan73/DSA/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
