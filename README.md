@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/zaidkhan73/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkhan73/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/zaidkhan73/DSA/tree/master/0622-design-circular-queue) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/zaidkhan73/DSA/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
@@ -264,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
