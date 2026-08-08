@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkhan73/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/zaidkhan73/DSA/tree/master/0981-time-based-key-value-store) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/zaidkhan73/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/zaidkhan73/DSA/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/zaidkhan73/DSA/tree/master/0875-koko-eating-bananas) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaidkhan73/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/zaidkhan73/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkhan73/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/zaidkhan73/DSA/tree/master/0981-time-based-key-value-store) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/zaidkhan73/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Trie
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/zaidkhan73/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkhan73/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/zaidkhan73/DSA/tree/master/0622-design-circular-queue) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
