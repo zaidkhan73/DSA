@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/zaidkhan73/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zaidkhan73/DSA/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/zaidkhan73/DSA/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zaidkhan73/DSA/tree/master/1046-last-stone-weight) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaidkhan73/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/zaidkhan73/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/zaidkhan73/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaidkhan73/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/zaidkhan73/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3536-maximum-product-of-two-digits](https://github.com/zaidkhan73/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -286,4 +291,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
