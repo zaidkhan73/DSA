@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/zaidkhan73/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkhan73/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/zaidkhan73/DSA/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/zaidkhan73/DSA/tree/master/0981-time-based-key-value-store) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/zaidkhan73/DSA/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/zaidkhan73/DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zaidkhan73/DSA/tree/master/1046-last-stone-weight) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/zaidkhan73/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/zaidkhan73/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0621-task-scheduler](https://github.com/zaidkhan73/DSA/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/zaidkhan73/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/zaidkhan73/DSA/tree/master/0704-binary-search) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/zaidkhan73/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/zaidkhan73/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -248,11 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/zaidkhan73/DSA/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/zaidkhan73/DSA/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/zaidkhan73/DSA/tree/master/0649-dota2-senate) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/zaidkhan73/DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
