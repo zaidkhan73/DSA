@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/zaidkhan73/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/zaidkhan73/DSA/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/zaidkhan73/DSA/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/zaidkhan73/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/zaidkhan73/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkhan73/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/zaidkhan73/DSA/tree/master/0981-time-based-key-value-store) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/zaidkhan73/DSA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zaidkhan73/DSA/tree/master/1046-last-stone-weight) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/zaidkhan73/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zaidkhan73/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkhan73/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/zaidkhan73/DSA/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/zaidkhan73/DSA/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/zaidkhan73/DSA/tree/master/0981-time-based-key-value-store) |
