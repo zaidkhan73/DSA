@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zaidkhan73/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/zaidkhan73/DSA/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/zaidkhan73/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/zaidkhan73/DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/zaidkhan73/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/zaidkhan73/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zaidkhan73/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/zaidkhan73/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/zaidkhan73/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/zaidkhan73/DSA/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/zaidkhan73/DSA/tree/master/0622-design-circular-queue) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidkhan73/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/zaidkhan73/DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/zaidkhan73/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/zaidkhan73/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
@@ -274,11 +277,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/zaidkhan73/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/zaidkhan73/DSA/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/zaidkhan73/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zaidkhan73/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/zaidkhan73/DSA/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/zaidkhan73/DSA/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/zaidkhan73/DSA/tree/master/0649-dota2-senate) |
 ## Breadth-First Search
@@ -310,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/zaidkhan73/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
