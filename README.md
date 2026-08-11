@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/zaidkhan73/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/zaidkhan73/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/zaidkhan73/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/zaidkhan73/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/zaidkhan73/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zaidkhan73/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/zaidkhan73/DSA/tree/master/0355-design-twitter) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/zaidkhan73/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/zaidkhan73/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/zaidkhan73/DSA/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/zaidkhan73/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/zaidkhan73/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/zaidkhan73/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/zaidkhan73/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zaidkhan73/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/zaidkhan73/DSA/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/zaidkhan73/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zaidkhan73/DSA/tree/master/0347-top-k-frequent-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/zaidkhan73/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
