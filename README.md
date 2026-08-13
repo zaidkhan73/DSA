@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/zaidkhan73/DSA/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/zaidkhan73/DSA/tree/master/0981-time-based-key-value-store) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zaidkhan73/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zaidkhan73/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/zaidkhan73/DSA/tree/master/1046-last-stone-weight) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/zaidkhan73/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zaidkhan73/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/zaidkhan73/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/zaidkhan73/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/zaidkhan73/DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/zaidkhan73/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zaidkhan73/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/zaidkhan73/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
