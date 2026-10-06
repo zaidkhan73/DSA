@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zaidkhan73/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zaidkhan73/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/zaidkhan73/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/zaidkhan73/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/zaidkhan73/DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/zaidkhan73/DSA/tree/master/0138-copy-list-with-random-pointer) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zaidkhan73/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/zaidkhan73/DSA/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/zaidkhan73/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/zaidkhan73/DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/zaidkhan73/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/zaidkhan73/DSA/tree/master/0075-sort-colors) |
@@ -267,9 +269,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zaidkhan73/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/zaidkhan73/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/zaidkhan73/DSA/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/zaidkhan73/DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/zaidkhan73/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
@@ -350,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/zaidkhan73/DSA/tree/master/0202-happy-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/zaidkhan73/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/zaidkhan73/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
